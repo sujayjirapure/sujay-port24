@@ -8,16 +8,19 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Sujay S. Jirapure </span>
-            from  <span className="purple"> Akola, India.</span>
-            <br />
-            I am currently looking for opportunities .
-            <br />
-            I have completed BCA at shankarlal khandelwal college , Akola in 2022.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
-          </p>
+  Hi everyone, I’m <span className="purple">Sujay S. Jirapure</span>, originally
+  from <span className="purple">Akola, India</span>, currently based in Pune.
+  <br /><br />
+  I am a passionate Full Stack Developer actively seeking new opportunities to
+  learn, grow, and contribute to impactful projects.
+  <br /><br />
+  I completed my Bachelor of Computer Applications (BCA) from Shankarlal
+  Khandelwal College, Akola in 2022, And Master of Computer Applications
+  (MCA) from Saraswati College, Shegaon in 2025.
+  <br /><br />
+  Apart from coding, here are a few activities that I genuinely enjoy:
+</p>
+
           <ul>
             <li className="about-activity">
               <ImPointRight /> Travelling
