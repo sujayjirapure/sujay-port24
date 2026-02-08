@@ -2,10 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
 import sujayflipkart from "../../Assets/Projects/sujay-flipkart.png";
-import chatify from "../../Assets/Projects/chatify.png";
+
 import sujaywhe from "../../Assets/Projects/sujay-whe.png";
 import sujayimdb from "../../Assets/Projects/sujay-imdb.png";
 import sujayport from "../../Assets/Projects/sujay-port.png";
